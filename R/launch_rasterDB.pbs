@@ -1,0 +1,18 @@
+#!/bin/bash
+### Job name
+#PBS -N fire025
+### Max run time
+###PBS -l walltime=72:00:00
+### Queue name
+#PBS -q himem
+### Number of nodes and processors per node
+###PBS -l nodes=1:ppn=7
+#PBS -l mem=100Gb
+#PBS -M bediaj@unican.es
+#PBS -m bea
+###PBS -W 506119
+
+WORKDIR=/vols/abedul/home/meteo/juaco
+cd $WORKDIR
+
+R -f /lustre/gmeteo/WORK/juaco/PTI-clima/fireDatabase/R/1_raster_municipios.R >& ./log.${PBS_JOBID}.log
