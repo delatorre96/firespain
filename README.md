@@ -5,3 +5,5 @@ Burned Area is recognized as an Essential Climate Variable by the Global Climate
 EGIF includes more than 150 data fields for each fire event. It was initiated in 1968 and it is one of the most complete international data series on forest fires, offering valuable insights into fire dynamics and impacts. However, the comprehensive nature of EGIF also needs a relational database format, which requires tailored queries to retrieve specific information, such as total BA records per reported fire event. 
 
 To address these needs and facilitate broader use of the data, we have developed the new FIRESPAIN product that organizes the database into a standard, gridded format (netCDF) of BA. This format simplifies data access and analysis, enabling researchers and practitioners to more easily integrate the information into their workflows for further studies and applications.
+
+This repo contains code and auxiliary materials for FIRESPAIN development. Interested data users are referred to the [latest version available in Zenodo](https://doi.org/10.5281/zenodo.14644902)
