@@ -8,6 +8,11 @@ To address these needs and facilitate broader use of the data, we have developed
 
 This repo contains code and auxiliary materials for FIRESPAIN development. Interested data users are referred to the [latest version available in Zenodo](https://doi.org/10.5281/zenodo.14644902)
 
+## Example usage notebook
+To help users get started with the FIRESPAIN-025 dataset, we have created an interactive Jupyter notebook that demonstrates how to load and analyze the data. You can launch it directly in your browser using Binder:
+
+
+[![Launch Python Notebook in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/delatorre96/firespain/569ff2ce153eeee11762c72f56dad66378fb9c49?urlpath=lab%2Ftree%2FNotebooks%2FExploracion_Python.ipynb)
 
 ***
 This research work was funded by the Ministry for the Ecological Transition and the Demographic Challenge (MITECO) and the European Commission NextGenerationEU (Regulation EU 2020/2094), through CSIC’s Interdisciplinary Thematic Platform Clima (PTI-Clima). J.B. acknowledges support from Project PROTECT (PID2023-149997OA-I00), funded by MICIU/AEI/10.13039/501100011033 UE / EDRF
