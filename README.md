@@ -13,6 +13,10 @@ To help users get started with the FIRESPAIN-025 dataset, we have created an int
 
 
 [![Launch Python Notebook in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/delatorre96/firespain/569ff2ce153eeee11762c72f56dad66378fb9c49?urlpath=lab%2Ftree%2FNotebooks%2FExploracion_Python.ipynb)
+![Launch R Notebook in Binder](https://mybinder.org/v2/gh/delatorre96/firespain/8bdbe5e27ead7efbf720767277b841a2544f2279?urlpath=lab%2Ftree%2FNotebooks%2FExploracion_R.ipynb)
+
+
+
 
 ***
 This research work was funded by the Ministry for the Ecological Transition and the Demographic Challenge (MITECO) and the European Commission NextGenerationEU (Regulation EU 2020/2094), through CSIC’s Interdisciplinary Thematic Platform Clima (PTI-Clima). J.B. acknowledges support from Project PROTECT (PID2023-149997OA-I00), funded by MICIU/AEI/10.13039/501100011033 UE / EDRF
