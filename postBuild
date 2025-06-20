@@ -4,7 +4,7 @@ export JAVA_HOME=$(dirname $(dirname $(readlink -f $(which java))))
 export LD_LIBRARY_PATH=${JAVA_HOME}/lib/server
 R CMD javareconf
 
-apt-get update && apt-get install -y libcurl4-openssl-dev libxml2-dev libssl-dev
+
 
 Rscript -e "devtools::install_github(c(
   'SantanderMetGroup/loadeR.java',
