@@ -11,8 +11,10 @@ This repo contains code and auxiliary materials for FIRESPAIN development. Inter
 ## Example usage notebook
 To help users get started with the FIRESPAIN-025 dataset, we have created an interactive Jupyter notebook that demonstrates how to load and analyze the data. You can launch it directly in your browser using Binder:
 
-
+**Launch Python Notebook in Binder**  
 [![Launch Python Notebook in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/delatorre96/firespain/569ff2ce153eeee11762c72f56dad66378fb9c49?urlpath=lab%2Ftree%2FNotebooks%2FExploracion_Python.ipynb)
+
+**Launch R Notebook in Binder**  
 [![Launch R Notebook in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/delatorre96/firespain/8bdbe5e27ead7efbf720767277b841a2544f2279?urlpath=lab%2Ftree%2FNotebooks%2FExploracion_R.ipynb)
 
 
