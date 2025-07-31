@@ -17,8 +17,8 @@ To help users get started with the FIRESPAIN-025 dataset, we have created an int
 **Launch R Notebook in Binder**  
 [![Launch R Notebook in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/delatorre96/firespain/8bdbe5e27ead7efbf720767277b841a2544f2279?urlpath=lab%2Ftree%2FNotebooks%2FExploracion_R.ipynb)
 
-**Launch Advanced Funcionalities in R Notebook in Binder**  
-[![Launch R Notebook in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/delatorre96/firespain/c445ffd54e19235912d85ea00dd58d9197330f19?urlpath=lab%2Ftree%2FNotebooks%2FR_advanced.ipynb)
+**Launch Advanced R Notebook for Fire Season Analysis in Binder**  
+[![Launch R Notebook in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/delatorre96/firespain/36d864640752b54d11f6d309e10f1614f8c840e9?urlpath=lab%2Ftree%2FNotebooks%2FR_advanced.ipynb)
 
 
 ***
